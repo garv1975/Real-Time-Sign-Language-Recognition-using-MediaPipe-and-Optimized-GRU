@@ -165,10 +165,14 @@ This project is licensed under the MIT License.
 
 ---
 
-## 👨‍💻 Authors
+## 👥 Project Team
 
-**Aashi Soni**
-**Ashlesha Agrawal**
-**Garv Gupta**
+This project was developed as a collaborative effort by:
+
+- **Garv Gupta**
+- **Ashlesha Agrawal**
+- **Aashi Soni**
+
+---
 
 If you found this project useful, consider giving it a ⭐ on GitHub.
